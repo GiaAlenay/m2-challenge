@@ -1,0 +1,16 @@
+.navCont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.navTab{
+    width: 50%;
+}
+
+a{
+    all:unset;
+    cursor:pointer;
+}
